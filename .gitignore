@@ -4,6 +4,5 @@ Assembly-Csharp.csproj
 *.csproj
 Library/
 Logs/
-Packages/
 Temp/
 [Oo]bj/
